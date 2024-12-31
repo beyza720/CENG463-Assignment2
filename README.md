@@ -38,6 +38,4 @@ Detailed results and analysis are included in the report.
 ## **File Structure**
 - `task1.py`: Model training for the Ideology Task.
 - `task2.py`: Model training for the Power Task.
-- `e2443430_hw2.pdf`: Project report.
-
-
+  
