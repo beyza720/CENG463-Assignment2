@@ -38,4 +38,7 @@ Detailed results and analysis are included in the report.
 ## **File Structure**
 - `task1.py`: Model training for the Ideology Task.
 - `task2.py`: Model training for the Power Task.
+- 'power-lv-train.tsv': Dataset for the Task1.
+- 'orientation-lv-train.tsv': Dataset for the Task2.
+- 'e2443430_hw2.pdf': Report for this assginment.
   
